@@ -1,0 +1,26 @@
+{
+  "../metric-periphery/lib/metric-core": {
+    "rev": "7b9ab567631a234ba5d467c646a1da9cbfb25479"
+  },
+  "../smart-contracts-poc/lib/forge-std": {
+    "rev": "8bbcf6e3f8f62f419e5429a0bd89331c85c37824"
+  },
+  "../smart-contracts-poc/lib/openzeppelin-contracts": {
+    "rev": "c64a1edb67b6e3f4a15cca8909c9482ad33a02b0"
+  },
+  "../smart-contracts-poc/lib/openzeppelin-contracts-upgradeable": {
+    "rev": "fa525310e45f91eb20a6d3baa2644be8e0adba31"
+  },
+  "../smart-contracts-poc/lib/pyth-crosschain": {
+    "rev": "1b93df1c5ea2bdc6729ca8409ef9de2df49f10cc"
+  },
+  "../smart-contracts-poc/lib/sstore2": {
+    "rev": "0a28fe61b6e81de9a05b462a24b9f4ba8c70d5b7"
+  },
+  "lib/forge-std": {
+    "rev": "0e44f85a13976ba7491c6a9ee994b1a7efc3c281"
+  },
+  "lib/openzeppelin-contracts": {
+    "rev": "dde766bd542e4a1695fe8e4a07dc03b77305f367"
+  }
+}
