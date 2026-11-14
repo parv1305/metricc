@@ -1,4 +1,4 @@
-# Metric OMM Core
+# Metric OMM cores
 
 Core smart contracts for the Metric OMM protocol: oracle-based pools with bin-based liquidity, factory deployment, and EXTSLOAD-aligned state reads.
 
